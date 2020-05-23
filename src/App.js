@@ -1,4 +1,4 @@
-/* 
+/* just starting, working on lectures and codesandbox
 Start here and then work through the 
 PostsContainer components and the CommentSection Components. 
 Not all files need code added. 
