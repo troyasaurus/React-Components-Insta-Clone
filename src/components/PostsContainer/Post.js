@@ -29,7 +29,7 @@ const newLike = () => {
           src={props.post.imageUrl}
         />
       </div>
-      <LikeSection clickHandler = {newLike} likes = {likes} />
+      <LikeSection clickEvent = {newLike} likes = {likes} />
       <CommentSection
         postId={props.post.imageUrl}
         comments={props.post.comments}
